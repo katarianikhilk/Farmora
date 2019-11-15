@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "640608533969",
+    "firebase_url": "https://farmora-cd65d.firebaseio.com",
+    "project_id": "farmora-cd65d",
+    "storage_bucket": "farmora-cd65d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640608533969:android:45dfa55241a28fd7",
+        "android_client_info": {
+          "package_name": "com.example.farmora10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640608533969-pjm77pjc62qlncjvctij1qjo6ohnj5j4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.farmora10",
+            "certificate_hash": "8d2b57df0ccd65bddfa4936ee3e17e3d4047b432"
+          }
+        },
+        {
+          "client_id": "640608533969-nqhhhafb3fk4dmqs49g74dnfl4caghht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCSOKpFJVTOEIf3UzP51qqantK_qBl2s4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640608533969-nqhhhafb3fk4dmqs49g74dnfl4caghht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
